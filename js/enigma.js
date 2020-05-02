@@ -61,7 +61,7 @@ function Enigma() {
     this.setRotorPositions = function(first, second, third) {
         this.rotor1.position = first;
         this.rotor2.position = second;
-        this.rotor1.position = third;
+        this.rotor3.position = third;
     }
 
     this.show = function() {
