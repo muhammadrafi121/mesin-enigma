@@ -1,2 +1,2 @@
 # mesin-enigma
-membuat mesin enigma berbasis web menggunakan p5 js
+membuat simulasi mesin enigma berbasis web menggunakan p5 js
